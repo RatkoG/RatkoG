@@ -8,7 +8,7 @@
 
 Here are some of the ways I stay updated with the latest in technology:
 
-- **Reading Documentations**: I regularly dive into official documentations of frameworks, libraries, and tools to gain in-depth knowledge and stay up-to-date with best practices.
+- **Reading Documentations**: I regularly dive into official documentation of frameworks, libraries, and tools to gain in-depth knowledge and stay up-to-date with best practices.
 
 - **Browsing Tech Blogs**: I follow reputable tech blogs and platforms to read articles, tutorials, and insights shared by experts in the industry. It helps me to learn new techniques and stay informed about emerging trends.
 
