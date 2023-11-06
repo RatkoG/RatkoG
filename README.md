@@ -2,7 +2,7 @@
 
 <p>I'm a Full Stack Software Developer from Canada 🇨🇦. </p>
 
-<p>As a result-driven developer, I'm focused on building software that brings about real, meaningful change. Specializing in turning concepts into efficient, user-friendly solutions, I'm committed to achieving meaningful results. Thriving on finding effective solutions to challenges, I aim to build software that not only meets user needs but exceeds expectations 🚀.</p>
+<p>As a result-driven developer, focused on building software that brings about real, meaningful change. Specializing in turning concepts into efficient, user-friendly solutions, committed to achieving meaningful results. Thriving on finding effective solutions to challenges, aim to build software that not only meets user needs but exceeds expectations 🚀.</p>
 
 ## Keeping Up with Technologies
 
